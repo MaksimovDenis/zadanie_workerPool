@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"time"
-	"workerPool/worker.go"
+	"workerPool/worker"
 )
 
 func main() {
