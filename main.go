@@ -17,7 +17,6 @@ func main() {
 		pool.AddWorker()
 	}
 
-	// Добавление задач
 	fmt.Println()
 	fmt.Println("Adding tasks...")
 	for i := 1; i <= 10; i++ {
